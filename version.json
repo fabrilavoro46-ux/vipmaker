@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/fabrilavoro46-ux/vipmaker/releases/download/v1.0.10/VipMaker.exe",
-  "notes": "FIX IMPORTANTE: catalogo Betfair a blocchi (prima si troncava a 200 mercati e mostrava meta' partite). Ora tutte le partite accoppiate hanno le quote."
+  "version": "1.0.11",
+  "url": "https://github.com/fabrilavoro46-ux/vipmaker/releases/download/v1.0.11/VipMaker.exe",
+  "notes": "Eurobet ora sui soli tornei CURATI (come Goldbet): alta liquidita', allineato. Prende Mondiali/Champions/ecc. e scarta amichevoli/minori."
 }
