@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/fabrilavoro46-ux/vipmaker/releases/download/v1.0.11/VipMaker.exe",
-  "notes": "Eurobet ora sui soli tornei CURATI (come Goldbet): alta liquidita', allineato. Prende Mondiali/Champions/ecc. e scarta amichevoli/minori."
+  "version": "1.0.12",
+  "url": "https://github.com/fabrilavoro46-ux/vipmaker/releases/download/v1.0.12/VipMaker.exe",
+  "notes": "Tempo reale (push SSE, ~istantaneo), tolto lo Storico, tab 'Best' con tutto da 95% in su."
 }
